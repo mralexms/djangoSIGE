@@ -358,7 +358,7 @@
     overflow-y: auto;
     height: 90vh;
     overflow-y: scroll;
-    height: 450px; }
+    height: 90vw; }
     .sidebar .menu .list {
       list-style: none;
       padding-left: 0; }
